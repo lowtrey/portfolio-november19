@@ -13,8 +13,10 @@ disqus_shortname:
 analytics-id:       ""
 twitter:            
 facebook:           quinton.price.182
+linkedin:           qprice
 instagram:          
 github:             lowtrey
+gitlab:             priceqp
 
 # personal
 location:           Dallas, TX
@@ -51,7 +53,7 @@ sass:
   style:            compressed
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed
