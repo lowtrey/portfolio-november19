@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "What's Your Story?"
+date:   2019-08-21
+excerpt: "People were curious about my personal story, not what team I played for or who I worked for. They asked where I was from..."
+image: "/images/post3.jpeg"
+---
+
+2019 has been a pivotal year for me. I began it by leaving a 6 figure job, jumping on a jet to South America with my wife, and immediately immersing myself in what I thought was a completely foreign culture. Separate but equal quickly took on a different meaning to me. The American Southern meaning transformed into the realization that different cultures have plenty in common, no matter how far apart they are. I clearly saw pieces of myself and my family in people that lived thousands of miles away from where I called home. Separate but equal…it brings to mind a feeling that fully formed inside of me only after months abroad. Equality of humanity rather than income. Equality of life rather than living conditions. Objective equality of wants and needs, something we politicize and fight over in America. I felt American privilege as I walked the streets of Ecuador and Colombia. To me it felt like being the object of sincere admiration and curiosity. People were curious about my personal story, not what team I played for or who I worked for. They asked where I was from, what brought me to their country, and how I liked it. This may seem trivial to some, but my demographic in the States is ostracized and marginalized. These feelings I chased for 31 years materialized hours after entering a different country. Generations have fought and died for this type of empathy and respect. My story took many unlikely turns to reach this destination. My fight is to help more people like me develop the courage to make those turns. See you next time….
